@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://uesznmdq.ap-southeast-1.clawcloudrun.com"
+  status = 200
+  force = true
