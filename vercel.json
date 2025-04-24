@@ -1,3 +1,7 @@
 {
+ "version": 2,
+    "routes": [
+      {"src": "/(.*)","dest": "https://www.sojson.com}
+    ]
  "regions": ["hkg1"]
 }
